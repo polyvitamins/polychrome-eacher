@@ -1,6 +1,6 @@
 {
-  "name": "S",
-  "repository": "http://github.com/polyvitamins/polyscope-each",
+  "name": "polyscope-eacher",
+  "repository": "http://github.com/polyvitamins/polyscope-eacher",
   "description": "Supports EACH function for all object-like functions",
   "version": "0.0.1",
   "keywords": ["polyscope", "each"],
@@ -11,10 +11,10 @@
     "polyvitamins/polyscope": "master"
    },
   "scripts": [
-    "src/dom.js"
+    "src/eacher.js"
   ],
   "optional": {
-    "each":     "Eacher/each.js",
+    "each":     "src/Eacher/each.js"
   },
   "license": "MIT",
   "remotes": [
