@@ -8,7 +8,7 @@
     "polyvitamins/polyscope": "master"
    },
   "scripts": [
-    "src/eacher.js"
+    "src/Eacher.js"
   ],
   "optional": {
     "each":     "src/Eacher/each.js"
