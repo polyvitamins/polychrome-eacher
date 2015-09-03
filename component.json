@@ -1,11 +1,11 @@
 {
-  "name": "polyscope-eacher",
-  "repository": "http://github.com/polyvitamins/polyscope-eacher",
+  "name": "polychrome-eacher",
+  "repository": "http://github.com/polyvitamins/polychrome-eacher",
   "description": "Supports EACH function for all object-like functions",
   "version": "0.0.1",
-  "keywords": ["polyscope", "each"],
+  "keywords": ["polychrome", "each"],
   "dependencies": {
-    "polyvitamins/polyscope": "master"
+    "polyvitamins/polychrome": "master"
    },
   "scripts": [
     "src/Eacher.js"

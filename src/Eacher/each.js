@@ -1,4 +1,4 @@
-define(['./../Eacher.js','polyvitamins~polyscope@master/gist/assay/isObjective','polyvitamins~polyscope@master/gist/assay/isRichObjective'], function(Eacher, isObjective, isRichObjective) {
+define(['./../Eacher.js','polyvitamins~polychrome@master/gist/assay/isObjective','polyvitamins~polychrome@master/gist/assay/isRichObjective'], function(Eacher, isObjective, isRichObjective) {
 	Eacher.extend({
 		each: function(callback) {
 			var operand, method=0;

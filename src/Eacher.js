@@ -1,7 +1,7 @@
 
 define([
-	'polyvitamins~polyscope@master',
-	'polyvitamins~polyscope@master/system/sings/sRichArray'], function(core) {
+	'polyvitamins~polychrome@master',
+	'polyvitamins~polychrome@master/system/sings/sRichArray'], function(core) {
 	/* Расширяем абстрактный класс Function */
 	
 	var Eacher = core.registerClass('Eacher', function() {
